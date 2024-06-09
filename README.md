@@ -1,0 +1,1 @@
+Android mobile application that is capable to track the movement of the car by dynamically showing the current longitude, latitude, and speed in the UI. Moreover, the app, should be able to save in JSON file, the movement, and the speed of the car, each time the app is started.
